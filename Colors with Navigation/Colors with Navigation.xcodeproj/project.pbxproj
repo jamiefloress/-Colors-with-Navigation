@@ -16,6 +16,7 @@
 		150EB5F91F21EAE400ED933E /* Colors_with_NavigationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150EB5F81F21EAE400ED933E /* Colors_with_NavigationUITests.swift */; };
 		150EB6071F21EB5E00ED933E /* ColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150EB6061F21EB5E00ED933E /* ColorsViewController.swift */; };
 		150EB6091F21EE4500ED933E /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150EB6081F21EE4500ED933E /* Color.swift */; };
+		150EB60B1F21F27C00ED933E /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150EB60A1F21F27C00ED933E /* ColorDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		150EB5FA1F21EAE400ED933E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		150EB6061F21EB5E00ED933E /* ColorsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorsViewController.swift; sourceTree = "<group>"; };
 		150EB6081F21EE4500ED933E /* Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		150EB60A1F21F27C00ED933E /* ColorDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				150EB5DC1F21EAE300ED933E /* Colors_with_Navigation.xcdatamodeld */,
 				150EB6061F21EB5E00ED933E /* ColorsViewController.swift */,
 				150EB6081F21EE4500ED933E /* Color.swift */,
+				150EB60A1F21F27C00ED933E /* ColorDetailViewController.swift */,
 			);
 			path = "Colors with Navigation";
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				150EB5DE1F21EAE300ED933E /* Colors_with_Navigation.xcdatamodeld in Sources */,
 				150EB6091F21EE4500ED933E /* Color.swift in Sources */,
 				150EB6071F21EB5E00ED933E /* ColorsViewController.swift in Sources */,
+				150EB60B1F21F27C00ED933E /* ColorDetailViewController.swift in Sources */,
 				150EB5D61F21EAE300ED933E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
